@@ -46,3 +46,5 @@ temp/
 # Prisma (se usar futuramente)
 prisma/dev.db
 prisma/dev.db-journal
+
+/src/generated/prisma
